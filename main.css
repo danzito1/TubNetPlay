@@ -6,6 +6,20 @@ body {
     float: right;
 }
 
+.perfil {
+    float: left;
+}
+
+#perfil_img {
+    height: 2vh;
+    width: 2vh;
+}
+
+#username {
+    height: 2vh;
+    width: 2vh;
+}
+
 #input1 {
     color: #fff;
     border-radius: 10vh;
@@ -13,4 +27,14 @@ body {
     width: 10vh;
     font-size: 2vh;
     padding-left: 1vh;
+}
+
+#btn1 {
+    background-color: #4f4f4f;
+    color: #fff;
+    border-radius: 10vh;
+    height: 2vh;
+    width: 2.5vh;
+    font-size: 2vh;
+    text-align: center;
 }
