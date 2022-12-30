@@ -13,13 +13,12 @@ body {
 }
 
 #perfil_img {
-    height: 2vh;
-    width: 2vh;
+    height: 7vh;
+    width: 7vh;
 }
 
 #username {
-    height: 2vh;
-    width: 10vh;
+    height: 7vh;
     font-size: 2vh;
     font-family: Poppins, sans-serif;
 }
@@ -27,8 +26,8 @@ body {
 #input1 {
     color: #fff;
     border-radius: 10vh;
-    height: 2vh;
-    width: 50vh;
+    height: 7vh;
+    width: 30vh;
     font-size: 1vh;
     padding-left: 1vh;
     font-family: Poppins, sans-serif;
@@ -38,8 +37,8 @@ body {
     background-color: #4f4f4f;
     color: #fff;
     border-radius: 10vh;
-    height: 2vh;
-    width: 30vh;
+    height: 7vh;
+    width: 15vh;
     font-size: 1vh;
     text-align: center;
     font-family: Poppins, sans-serif;
