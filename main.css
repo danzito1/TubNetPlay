@@ -19,7 +19,7 @@ body {
 }
 
 #perfil_img {
-    position: static;
+    position: absolute;
     min-height: 4vh;
     min-width: 4vh;
     max-height: 4vh;
@@ -27,7 +27,7 @@ body {
 }
 
 #username {
-    position: static;
+    position: absolute;
     height: 4vh;
     Width: 20vh;
     font-size: 1.5vh;
@@ -36,7 +36,7 @@ body {
 }
 
 #input1 {
-    position: static;
+    position: absolute;
     color: #2b2b2b;
     border-radius: 10vh;
     min-height: 4vh;
@@ -49,7 +49,7 @@ body {
 }
 
 #btn1 {
-    position: static;
+    position: absolute;
     background-color: #4f4f4f;
     color: #fff;
     border-radius: 10vh;
@@ -60,4 +60,8 @@ body {
     font-size: 1.5vh;
     text-align: center;
     font-family: Poppins, sans-serif;
+}
+
+* {
+    box-sizing: content-box;
 }
