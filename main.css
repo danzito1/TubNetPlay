@@ -6,21 +6,19 @@ body {
 
 .search {
     float: right;
-    position: fixed;
 }
 
 .perfil {
     float: left;
-    position: fixed;
 }
 
 #perfil_img {
-    height: 4vh;
-    width: 4vh;
+    min-height: 4vh;
+    min-width: 4vh;
 }
 
 #username {
-    height: 4vh;
+    min-height: 4vh;
     font-size: 1.5vh;
     font-family: Poppins, sans-serif;
 }
@@ -28,8 +26,10 @@ body {
 #input1 {
     color: #2b2b2b;
     border-radius: 10vh;
-    height: 4vh;
-    width: 30vh;
+    min-height: 4vh;
+    min-width: 30vh;
+    max-height: 4vh;
+    max-width: 30vh;
     font-size: 1.5vh;
     padding-left: 1vh;
     font-family: Poppins, sans-serif;
@@ -39,8 +39,10 @@ body {
     background-color: #4f4f4f;
     color: #fff;
     border-radius: 10vh;
-    height: 4vh;
-    width: 15vh;
+    min-height: 4vh;
+    min-width: 15vh;
+    max-height: 4vh;
+    max-width: 15vh;
     font-size: 1.5vh;
     text-align: center;
     font-family: Poppins, sans-serif;
