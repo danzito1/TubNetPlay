@@ -64,6 +64,7 @@ body {
 
 #filmes_lista_1 {
     padding-left: 0px;
+    width: 100%;
 }
 
 #filmes_lista_1 li {
@@ -80,7 +81,7 @@ body {
 
 #filmes_lista_1 li img {
     height: 15vh;
-    width: 7vh;
+    width: 10vh;
 }
 
 .l_atuais {
