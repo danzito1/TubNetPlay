@@ -5,3 +5,12 @@ body {
 .search {
     float: right;
 }
+
+#input1 {
+    color: #fff;
+    border-radius: 10vh;
+    height: 2vh;
+    width: 10vh;
+    font-size: 2vh;
+    padding-left: 1vh;
+}
