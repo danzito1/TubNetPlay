@@ -15,22 +15,22 @@ body {
 }
 
 #perfil_img {
-    height: 7vh;
-    width: 7vh;
+    height: 4vh;
+    width: 4vh;
 }
 
 #username {
-    height: 7vh;
-    font-size: 3vh;
+    height: 4vh;
+    font-size: 1.5vh;
     font-family: Poppins, sans-serif;
 }
 
 #input1 {
     color: #2b2b2b;
     border-radius: 10vh;
-    height: 7vh;
+    height: 4vh;
     width: 30vh;
-    font-size: 3vh;
+    font-size: 1.5vh;
     padding-left: 1vh;
     font-family: Poppins, sans-serif;
 }
@@ -39,9 +39,9 @@ body {
     background-color: #4f4f4f;
     color: #fff;
     border-radius: 10vh;
-    height: 7vh;
+    height: 4vh;
     width: 15vh;
-    font-size: 3vh;
+    font-size: 1.5vh;
     text-align: center;
     font-family: Poppins, sans-serif;
 }
