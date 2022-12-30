@@ -62,19 +62,19 @@ body {
     padding-left: 0px;
 }
 
-#filmes_lista_1 > li {
+#filmes_lista_1 li {
     display: inline-block;
     padding: 10px, 20px;
 }
 
-#filmes_lista_1 > li > h4 {
+#filmes_lista_1 li h4 {
     color: #fff;
     font-family: Poppins, sans-serif;
     text-align: center;
     font-size: 1.5vh;
 }
 
-#filmes_lista_1 > li > img {
+#filmes_lista_1 li img {
     height: 15vh;
     width: 7vh;
 }
