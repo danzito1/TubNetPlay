@@ -19,6 +19,10 @@ body {
     float: left;
 }
 
+.head1 {
+    float: left;
+}
+
 #perfil_img {
     min-height: 4vh;
     min-width: 4vh;
@@ -86,6 +90,4 @@ body {
     color: #fff;
     font-size: 2.5vh;
     font-family: Poppins, sans-serif;
-    text-align: left;
-    float: left;
 }
