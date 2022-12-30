@@ -19,7 +19,6 @@ body {
 }
 
 #perfil_img {
-    position: absolute;
     min-height: 4vh;
     min-width: 4vh;
     max-height: 4vh;
@@ -27,7 +26,6 @@ body {
 }
 
 #username {
-    position: absolute;
     height: 4vh;
     Width: 20vh;
     font-size: 1.5vh;
@@ -36,7 +34,6 @@ body {
 }
 
 #input1 {
-    position: absolute;
     color: #2b2b2b;
     border-radius: 10vh;
     min-height: 4vh;
@@ -49,7 +46,6 @@ body {
 }
 
 #btn1 {
-    position: absolute;
     background-color: #4f4f4f;
     color: #fff;
     border-radius: 10vh;
