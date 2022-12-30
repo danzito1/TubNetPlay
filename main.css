@@ -22,10 +22,8 @@ body {
 
 #username {
     position: static;
-    min-height: 4vh;
-    min-width: 10vh;
-    max-width: 10vh;
-    max-height: 4vh;
+    height: 4vh;
+    Width: 20vh;
     font-size: 1.5vh;
     color: #fff;
     font-family: Poppins, sans-serif;
